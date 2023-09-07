@@ -84,7 +84,7 @@
  6. 공지 관리 (목록, 작성, 상세보기/수정, 검색, 삭제)<br>
 
 ## ✨ ERD
-![짐캐리 포토폴리오 drawio](https://user-images.githubusercontent.com/122762287/233322002-5be1e3da-90ba-4e2a-ab88-38ad95b48aaf.png)
+![AnonymousGuardian 포토폴리오 drawio](https://user-images.githubusercontent.com/122762287/233322002-5be1e3da-90ba-4e2a-ab88-38ad95b48aaf.png)
 
 ## ✨ 프로젝트에서 느낀점
  : 개발을 처음 배웠고 실력적으로 많이 뎌딘 상태에서 팀장이라는 직책을 맡아 프로젝트를 진행하는 것이 가장 큰 어려웠던것 같습니다. 전체적이 흐름을 파악하고 있어야하고, 개발 뿐만 아니라 기획과 문서까지 전체적으로 팀장이 결정을 해야하는 것에 안좋은 선택이지 않을까, 좋은 방향성을 제시하는 걸까 하는 큰 부담이 있었습니다.
