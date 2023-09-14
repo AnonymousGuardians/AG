@@ -67,6 +67,9 @@
 - Boot pay
 - Kakao OAuth
 
+## ✨ 페이지 흐름도
+![KakaoTalk_20230914_150713075](https://github.com/OH-JUYEON/AG/assets/83529552/391c9b4c-f9e9-48e0-aaba-53ad36139ece)
+
 ## ✨ ERD
 ![anonymousGuardian drawio drawio](https://github.com/AnonymousGuardians/AG/assets/83529552/72403635-597e-4ed8-b817-210de904f07c)
 
